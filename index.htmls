@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Low Blood Pressure (Hypotension)</title>
+	<style>
+		body {
+			font-family: Arial, sans-serif;
+		}
+		h1 {
+			color: #00698f;
+		}
+	</style>
+</head>
+<body>
+	<h1>Low Blood Pressure (Hypotension)</h1>
+	<p>Low blood pressure, or hypotension, occurs when your blood pressure is lower than normal.</p>
+	
+	<h2>Symptoms:</h2>
+	<ul>
+		<li>Dizziness or lightheadedness</li>
+		<li>Fainting or near-fainting</li>
+		<li>Fatigue or weakness</li>
+		<li>Rapid heartbeat</li>
+	</ul>
+	
+	<h2>Causes:</h2>
+	<ul>
+		<li>Dehydration</li>
+		<li>Medications</li>
+		<li>Heart problems</li>
+		<li>Nutritional deficiencies</li>
+	</ul>
+	
+	<h2>When to Seek Help:</h2>
+	<p>If you experience severe symptoms or persistent low blood pressure, consult a healthcare professional.</p>
+</body>
+</html>
